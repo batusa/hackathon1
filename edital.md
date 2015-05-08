@@ -12,15 +12,15 @@ Os colaboradores do Nordeste JavaScript – NeJs, no exercício de suas atribui�
 
 1.4. O Primeiro Hackathon de JavaScript – NeJs 2015 **acontecerá nos dias 04 a 05 de julho de 2015** em Natal RN, na Universidade Federal do Rio Grande do Norte, no prédio do **Instituto Metrópole Digital**.
 
-1.5. Os participantes inscritos deverão **submeter até o dia 26 de junho de 2015** propostas de projeto para se seja sorteada no dia do evento.
+1.5. Os participantes inscritos deverão **submeter até o dia 26 de junho de 2015** propostas de projeto para que seja sorteada no dia do evento.
 
-1.5.1 A proposta de projeto escolhida no dia do evento será única a todos os participantes, ou seja, todos os 
+1.5.1 A proposta de projeto escolhida no dia do evento será única a todos os participantes, ou seja, de todos as propostas submetidas, será sorteada uma única proposta para todos os participantes. 
 
-1.6. Os projetos apresentados devem permanecer no repositório da comunidade para que após o eventos outras pessoas possam contribuir com o projeto.
+1.6. Os projetos apresentados devem permanecer no repositório da comunidade para que após o evento outras pessoas possam contribuir para o projeto.
 
 **2. Das Inscrições**
 
-2.1. As inscrições serão realizadas exclusivamente por meio do link http://www.eventick.com.br/hackathon2015 e estará até às 23h59 do dia 26/05/2015, horário oficial de Natal RN.
+2.1. As inscrições serão realizadas exclusivamente por meio do link http://www.eventick.com.br/hackathon2015 e estará até às 23h59 do dia 26/06/2015, horário oficial de Natal RN.
 
 2.2. A inscrição é individual e o candidato deve indicar no formulário a categoria correspondente ao seu perfil (programador ou designer).
 
@@ -28,7 +28,7 @@ Os colaboradores do Nordeste JavaScript – NeJs, no exercício de suas atribui�
 
 2.4. Não serão permitidas inscrições de pessoas que sejam membros da organização do NeJs, assim como membros da organização do evento.
 
-2.5. **O evento custará R$ 30,00 por participante** com direito a meia entrada para estudantes e isenção da taxa para os primeiros 50 alunos inscritos do Instituto Metrópole Digital (IMD) nos Cursos Técnicos do IMD, Bacharelado em Tecnologia da Informação, Bacharelado em Engenharia de Software, Bacharelado em Ciência da Computação, Residência em Engenharia de Software e Mestrado Profissional em Engenharia de Software mediante uma comprovação de conhecimento mínimo que será dado pelo término do curso gratuito de JavaScript no CodeCademy bastando apenas enviar o link do perfil na plataforma CodeCademy com o curso terminado para que seja concedida a isenção.
+2.5. **O evento custará R$ 30,00 por participante** com direito a meia entrada para estudantes e isenção da taxa para os primeiros 50 alunos inscritos do Instituto Metrópole Digital (IMD) nos Cursos Técnicos do IMD, Bacharelado em Tecnologia da Informação, Bacharelado em Engenharia de Software, Bacharelado em Ciência da Computação, Residência em Engenharia de Software e Mestrado Profissional em Engenharia de Software mediante uma comprovação de conhecimento mínimo que será dado pelo término do curso gratuito de JavaScript no [Codecademy](http://www.codecademy.com/pt) bastando apenas enviar o link do perfil na plataforma [Codecademy](http://www.codecademy.com/pt) com o curso terminado para que seja concedida a isenção.
 
 **3. Da Seleção das Inscrições**
 
@@ -70,11 +70,11 @@ Os colaboradores do Nordeste JavaScript – NeJs, no exercício de suas atribui�
 
 6.2. A Comissão será composta pelos seguintes profissionais:
 
-- [Fábio M Costa](https://github.com/fabiomcosta)
+- [Fábio M. Costa](https://github.com/fabiomcosta)
 - [Daniel Filho](https://github.com/DanielFilho)
 - (Vaga Disponível)
 
-6.3. Os Projetos serão avaliados em três quesitos: interesse público; criatividade; e qualidade técnica.
+6.3. Os projetos serão avaliados em três quesitos: interesse público; criatividade; e qualidade técnica.
 
 6.3.1. No quesito interesse público será avaliado se o projeto atende à necessidade coletiva e se a proposta colabora com a melhoria de vida de cidadãos e cidadãs em sociedade.
 
@@ -102,7 +102,7 @@ Os colaboradores do Nordeste JavaScript – NeJs, no exercício de suas atribui�
 
 **8. Da Premiação**
 
-8.1. Os vencedores do Primeiro Hackathon de JavaScript – NeJs 2015 receberão premios oferecidos pelos pratrocinadores [wiquadro](http://wiquadro.com.br) e [ACADEMIA .NET PARA ZUMBIS](https://www.youtube.com/user/curtinhasdotnet).
+8.1. Os vencedores do Primeiro Hackathon de JavaScript – NeJs 2015 receberão prêmios oferecidos pelos pratrocinadores [wiquadro](http://wiquadro.com.br) e [ACADEMIA .NET PARA ZUMBIS](https://www.youtube.com/user/curtinhasdotnet).
 
 8.1.1. O primeiro lugar receberá R$ 1.000,00.
 
